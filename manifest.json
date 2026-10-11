@@ -1,0 +1,15 @@
+{
+    "name": "MessageLogger (local)",
+    "description": "Сохраняет удалённые и изменённые сообщения локально на устройстве, оставляет их в чатах после перезапуска и показывает общий журнал.",
+    "authors": [
+        {
+            "name": "you",
+            "id": "0"
+        }
+    ],
+    "main": "index.js",
+    "hash": "75ea6600ab0576a7",
+    "vendetta": {
+        "icon": "ic_message_delete"
+    }
+}
